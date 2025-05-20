@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "image": "./data/1.png",
+    "name": "Recliner Chair Wood",
+    "price": 299.00,
+    "previousPrice": 399.00,
+    "offer": "30% OFF",
+    "description": "It has a backrest that can be tilted back, and often a footrest extended",
+    "category": "Rocking Chair"
+  },
+  {
+    "id": 2,
+    "image": "./data/2.png",
+    "name": "Timber Ride Padded",
+    "price": 59.00,
+    "previousPrice": 399.00,
+    "offer": "30% OFF",
+    "description": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs ",
+    "category": "Rocking Chair"
+  },
+  {
+    "id": 3,
+    "image": "./data/3.png",
+    "name": "Colored Wooden Chair",
+    "price": 299.00,
+    "previousPrice": 399.00,
+    "offer": "30% OFF",
+    "description": "It has a backrest that can be tilted back, and often a footrest extended",
+    "category": "Rocking Chair"
+  },
+  {
+    "id": 4,
+    "image": "./data/4.png",
+    "name": "Blank Bamboo Wicker",
+    "price": 299.00,
+    "previousPrice": 399.00,
+    "offer": "30% OFF",
+    "description": "Lightweight, easy to clean, sturdy, safe and stable. Non-slip legs",
+    "category": "Rocking Chair"
+  },
+  {
+    "id": 5,
+    "image": "./data/5.png",
+    "name": "Isolated Wooden Rock",
+    "price": 165.00,
+    "previousPrice": 400.00,
+    "offer": "30% OFF",
+    "description": "It has a backrest that can be tilted back, and often a footrest extended",
+    "category": "Rocking Chair"
+  },
+  {
+    "id": 6,
+    "image": "./data/6.png",
+    "name": "Minimal Empty Rocking",
+    "price": 299.00,
+    "previousPrice": 359.00,
+    "offer": "30% OFF",
+    "description": "A seat, especially for one person, usually having four legs for support.",
+    "category": "Rocking Chair"
+  },
+  {
+    "id": 7,
+    "image": "./data/7.jpg",
+    "name": "Minimal Empty Side",
+    "price": 299.00,
+    "previousPrice": 359.00,
+    "offer": "30% OFF",
+    "description": "A sleek and minimalist side chair, perfect for modern spaces. Its clean lines and neutral tones make it a versatile piece for any room.",
+    "category": "Side Chair"
+  },
+  {
+    "id": 8,
+    "image": "./data/8.jpg",
+    "name": "Rustic Oak Side",
+    "price": 199.00,
+    "previousPrice": 249.00,
+    "offer": "20% OFF",
+    "description": "Crafted from solid oak, this rustic side chair brings warmth and character to your home. Its sturdy design makes it both stylish and functional.",
+    "category": "Side Chair"
+  },
+  {
+    "id": 9,
+    "image": "./data/9.jpg",
+    "name": "Mid-Century Modern",
+    "price": 349.00,
+    "previousPrice": 399.00,
+    "offer": "10% OFF",
+    "description": "Inspired by mid-century design, this chair features a curved wooden backrest and comfortable cushioning, ideal for both dining and lounging.",
+    "category": "Side Chair"
+  },
+  {
+    "id": 10,
+    "image": "./data/10.jpg",
+    "name": "Industrial Metal Frame",
+    "price": 259.00,
+    "previousPrice": 319.00,
+    "offer": "15% OFF",
+    "description": "This industrial-style side chair combines a metal frame with a distressed leather seat, offering a rugged yet refined look for any space.",
+    "category": "Side Chair"
+  },
+  {
+    "id": 11,
+    "image": "./data/11.jpg",
+    "name": "Classic Upholstered",
+    "price": 229.00,
+    "previousPrice": 279.00,
+    "offer": "18% OFF",
+    "description": "Featuring soft upholstery and a tufted back, this classic side chair provides comfort and elegance, perfect for dining or as an accent chair.",
+    "category": "Side Chair"
+  },
+  {
+    "id": 12,
+    "image": "./data/12.jpg",
+    "name": "Scandinavian Wooden",
+    "price": 299.00,
+    "previousPrice": 349.00,
+    "offer": "14% OFF",
+    "description": "A Scandinavian-inspired wooden side chair with a minimalist design. Its natural wood finish and ergonomic shape offer both comfort and style.",
+    "category": "Side Chair"
+  },
+    {
+      "id": 13,
+      "image": "./data/13.jpg",
+      "name": "Contemporary Leather",
+      "price": 499.00,
+      "previousPrice": 599.00,
+      "offer": "20% OFF",
+      "description": "This sleek contemporary lounge chair features a leather finish with a stainless steel frame. Ideal for modern living rooms or office spaces, combining style and comfort.",
+      "category": "Lounge Chair"
+    },
+    {
+      "id": 14,
+      "image": "./data/14.jpg",
+      "name": "Scandinavian Fabric",
+      "price": 399.00,
+      "previousPrice": 459.00,
+      "offer": "15% OFF",
+      "description": "A minimalist Scandinavian design with soft fabric upholstery and a natural wooden frame. Perfect for adding a touch of warmth to any room.",
+      "category": "Lounge Chair"
+    },
+    {
+      "id": 15,
+      "image": "./data/15.jpg",
+      "name": "Classic Wingback Lounge",
+      "price": 549.00,
+      "previousPrice": 629.00,
+      "offer": "12% OFF",
+      "description": "A timeless classic, this wingback lounge chair is upholstered in premium fabric with deep cushioning, ideal for reading nooks or living rooms.",
+      "category": "Lounge Chair"
+    },
+    {
+      "id": 16,
+      "image": "./data/16.jpg",
+      "name": "Mid-Century Modern",
+      "price": 599.00,
+      "previousPrice": 689.00,
+      "offer": "13% OFF",
+      "description": "This mid-century modern lounge chair features smooth lines, wooden legs, and a rich fabric finish. A perfect blend of vintage charm and modern elegance.",
+      "category": "Lounge Chair"
+    },
+    {
+      "id": 17,
+      "image": "./data/17.jpg",
+      "name": "Luxury Velvet Lounge",
+      "price": 649.00,
+      "previousPrice": 749.00,
+      "offer": "25% OFF",
+      "description": "With soft velvet upholstery and a deep seat, this luxurious lounge chair adds a touch of sophistication to any living space.",
+      "category": "Lounge Chair"
+    },
+    {
+      "id": 18,
+      "image": "./data/18.jpg",
+      "name": "Bohemian Wicker Lounge",
+      "price": 459.00,
+      "previousPrice": 539.00,
+      "offer": "18% OFF",
+      "description": "Crafted from natural wicker, this bohemian-inspired lounge chair brings a laid-back and earthy vibe to any indoor or outdoor setting.",
+      "category": "Lounge Chair"
+    }
+]

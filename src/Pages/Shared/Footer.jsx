@@ -76,7 +76,7 @@ const Footer = () => {
                     <h1>General Terms</h1>
                     <h1>Contact</h1>
                 </div>
-                <div className="flex  items-center gap-4">
+                <div className="flex  items-center gap-2">
                     <img src="./Flag.png" alt="" />
                     <h1>
                     United States (English)</h1>
